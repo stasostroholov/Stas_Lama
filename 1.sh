@@ -1,2 +1,2 @@
 #/bin/bash
-echo "oOOops"
+echo "hello"
